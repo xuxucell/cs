@@ -5,7 +5,9 @@ import urllib.parse
 import urllib.request
 
 ENDPOINTS = [
-    "http://127.0.0.1:8080/search",
+    "https://priv.au/search",
+    "https://search.inetol.net/search",
+    "https://searx.be/search",
 ]
 
 
